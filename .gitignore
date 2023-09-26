@@ -1,0 +1,8 @@
+# Direktori build Kivy
+.build/
+
+# Direktori cache Kivy
+.kivy/
+
+# File log Kivy
+kivy_*.log
